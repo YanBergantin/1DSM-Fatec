@@ -1,0 +1,19 @@
+{
+  "name": "algoritimos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./aula6/src/um",
+    "dois": "node ./aula6/src/dois",
+    "tres": "node ./aula6/src/tres",
+    "quatro": "node ./aula6/src/quatro",
+    "cinco": "node ./aula6/src/cinco",
+    "seis": "node ./aula6/src/seis",
+    "sete": "node ./aula6/src/sete",
+    "oito": "node ./aula6/src/oito"
+  },
+  "keywords": [],
+  "author": "Yan Bergantin",
+  "license": "ISC"
+}
